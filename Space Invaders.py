@@ -188,3 +188,4 @@ while True:
 
 
 delay = input("press enter to finish")  # Keeps the Screen/Window open
+# this line was added for practice in GitHub!
